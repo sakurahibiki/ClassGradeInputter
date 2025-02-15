@@ -5,12 +5,12 @@ The **Class Grade Inputter** is a Java application designed to help students and
 ## Features
 
 ✅ **Multi-semester support** for tracking grades across different terms.
-✅ Allows users to **input grades** for multiple subjects.
-✅ Calculates **GPA** based on user-defined grading scales.
-✅ Stores grades in a **database** for long-term record-keeping.
-✅ Exports and imports grades using **CSV files** for easy data management.
-✅ Displays summary reports of **student performance** by semester.
-✅ Built with **Java** using **NetBeans**.
+✅ Allows users to **input grades** for multiple subjects.  
+✅ Calculates **GPA** based on user-defined grading scales.  
+✅ Stores grades in a **database** for long-term record-keeping.  
+✅ Exports and imports grades using **CSV files** for easy data management.  
+✅ Displays summary reports of **student performance** by semester.  
+✅ Built with **Java** using **NetBeans**.  
 
 ## How to Run the Program
 
