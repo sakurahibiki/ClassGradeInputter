@@ -9,7 +9,7 @@ The **Class Grade Inputter** is a Java application designed to help students and
 ✅ Calculates **GPA** based on user-defined grading scales.  
 ✅ Stores grades in a **database** for long-term record-keeping.  
 ✅ Exports and imports grades using **CSV files** for easy data management.  
-✅ Displays summary reports of **student performance** by semester.  
+✅ Displays summary reports of **student performance & data** by semester, such as **standing**, **number of credits**, and **classification**.  
 ✅ Built with **Java** using **NetBeans**.  
 
 ## How to Run the Program
