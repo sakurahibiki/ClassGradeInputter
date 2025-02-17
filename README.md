@@ -14,16 +14,16 @@ The **Class Grade Inputter** is a Java application designed to help students and
 
 ## How to Run the Program
 
-1. **Using Git**
+1. **Cloning the Repository**
 
     Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/sakurahibiki/ClassGradeInputter.git
+    git clone https://github.com/sakurahibiki/OrderingSimulator.git
     ```
-2. **For Windows Executable**
-
-    Download and double-click the '.exe' file to launch the simulator.
-3. **For Java JAR**
+2. **Running the Windows Executable**
+   
+    Download and double-click the `.jar` file located in the `dist` folder.
+4. **Running the JAR File with Java**
 
     Ensure that you have Java installed on your system.
     ```bash
