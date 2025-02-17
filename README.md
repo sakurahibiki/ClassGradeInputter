@@ -18,7 +18,7 @@ The **Class Grade Inputter** is a Java application designed to help students and
 
     Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/sakurahibiki/OrderingSimulator.git
+    git clone https://github.com/sakurahibiki/ClassGradeInputter.git
     ```
 2. **Running the Windows Executable**
    
