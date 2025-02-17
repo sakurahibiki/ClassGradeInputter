@@ -20,10 +20,10 @@ The **Class Grade Inputter** is a Java application designed to help students and
     ```bash
     git clone https://github.com/sakurahibiki/ClassGradeInputter.git
     ```
-2. **Running the Windows Executable**
+2. **Locate the JAR file**
    
-    Download and double-click the `.jar` file located in the `dist` folder.
-4. **Running the JAR File with Java**
+    Find the `.jar` file located in the `dist` folder.
+3. **Running the JAR File with Java**
 
     Ensure that you have Java installed on your system.
     ```bash
